@@ -16,7 +16,7 @@ and then give it a url when prompted
 and just navigate to the folder and you should find it hopefully.
 ```
 # TO-DO:
- -[ ] Use youtube-dlp instead of pytubefix for better flexibility.
+ - [ ] Use youtube-dlp instead of pytubefix for better flexibility.
 
- -[ ] Instagram and reddit support 
+ - [ ] Instagram and reddit support 
 
