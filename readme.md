@@ -1,4 +1,5 @@
-Installation:
+# Installation:
+'
 First you have to install something called pip, its a python package installer.
 Open cmd in admin mode and type: python get-pip.py
 
@@ -12,9 +13,9 @@ then type the following: python3 downloader.py (you mught have to install python
 
 and then give it a url when prompted
 
-and just navigste to the folder and you should find it hopefully.
-
-TO-DO:
- Use youtube-dlp instead of pytubefix for better flexibility.
- Instagram and reddit support 
+and just navigate to the folder and you should find it hopefully.
+`
+# TO-DO:
+ [ ] Use youtube-dlp instead of pytubefix for better flexibility.
+ [ ] Instagram and reddit support 
 
